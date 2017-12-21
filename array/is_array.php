@@ -5,7 +5,7 @@ $count = 1000000;
 $test = array('im', 'an', 'array');
 $test2 = 'im not an array';
 $test3 = (object) array('im' => 'not', 'going' => 'to be', 'an' => 'array');
-$test4 = 42;
+$test4 = 44;
 // set this now so the first for loop doesn't do the extra work.
 $i = $start_time = $end_time = 0;
 
